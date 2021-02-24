@@ -18,6 +18,8 @@ class CategoryViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("hello world!")
+        
         loadCategories()
 
     }
